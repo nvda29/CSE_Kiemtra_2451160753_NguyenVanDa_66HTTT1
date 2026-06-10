@@ -1,0 +1,66 @@
+body {
+    background: #f0f4f8;
+}
+
+.page-header {
+    background: #2563eb;
+    color: #fff;
+    padding: 1.5rem 2rem;
+    border-radius: 8px 8px 0 0;
+}
+.page-header h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+}
+.page-header p {
+    margin: 0;
+    opacity: 0.9;
+    font-size: 0.95rem;
+}
+
+
+.main-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+}
+.panel-box {
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 1.25rem;
+    height: 100%;
+}
+.panel-title {
+    font-weight: 600;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    color: #1e293b;
+}
+
+
+.table-products thead {
+    background: #f1f5f9;
+}
+.table-products th {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    color: #64748b;
+}
+
+
+.badge-in-stock {
+    background: #dcfce7;
+    color: #16a34a;
+    font-weight: 500;
+    padding: 0.35em 0.75em;
+    border-radius: 4px;
+}
+.badge-out-stock {
+    background: #fee2e2;
+    color: #dc2626;
+    font-weight: 500;
+    padding: 0.35em 0.75em;
+    border-radius: 4px;
+}
